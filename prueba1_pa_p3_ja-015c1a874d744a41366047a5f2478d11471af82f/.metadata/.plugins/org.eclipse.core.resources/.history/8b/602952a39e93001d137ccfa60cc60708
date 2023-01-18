@@ -1,0 +1,13 @@
+package com.example.demo.uce.repository;
+
+import com.example.demo.uce.service.ITransferenciaService;
+
+public class TransferenciaServiceImpl implements ITransferenciaService {
+
+	@Override
+	public void crear() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

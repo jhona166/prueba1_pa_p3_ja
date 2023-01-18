@@ -1,0 +1,11 @@
+package com.example.demo.uce.repository;
+
+import com.example.demo.uce.modelo.CuentaBancaria;
+import com.example.demo.uce.modelo.Transferencia;
+
+public class ITransferenciaRepo {
+	public void insertar(Transferencia transferencia);	
+	public CuentaBancaria buscar(String cuenta);
+	public void eliminar(CuentaBancaria cBancaria);
+	public void actualizar(CuentaBancaria cBancaria);
+}

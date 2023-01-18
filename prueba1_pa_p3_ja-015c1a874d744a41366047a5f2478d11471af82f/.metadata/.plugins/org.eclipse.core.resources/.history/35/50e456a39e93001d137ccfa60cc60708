@@ -1,0 +1,42 @@
+package com.example.demo.uce.modelo;
+
+import java.math.BigDecimal;
+
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name="cuenta_bancaria")
+public class Transferencia {
+	@Id
+	@Column(name="cuenta_origen")
+	private String cuentaOrigen;
+	@Column(name="cuenta_destino")
+	private String cuentaDestino;
+	@Column(name="monto_transferencia")
+	private BigDecimal monto;
+	
+	
+	//Set and Get 
+	public String getCuentaOrigen() {
+		return cuentaOrigen;
+	}
+	public void setCuentaOrigen(String cuentaOrigen) {
+		this.cuentaOrigen = cuentaOrigen;
+	}
+	public String getCuentaDestino() {
+		return cuentaDestino;
+	}
+	public void setCuentaDestino(String cuentaDestino) {
+		this.cuentaDestino = cuentaDestino;
+	}
+	public BigDecimal getMonto() {
+		return monto;
+	}
+	public void setMonto(BigDecimal monto) {
+		this.monto = monto;
+	}
+
+}

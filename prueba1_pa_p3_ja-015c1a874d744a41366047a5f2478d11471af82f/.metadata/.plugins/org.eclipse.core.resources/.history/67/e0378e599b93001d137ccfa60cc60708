@@ -1,0 +1,31 @@
+package com.example.demo.uce.repository;
+
+import com.example.demo.uce.modelo.CuentaBancaria;
+
+public class CuentaBancariaImpl implements ICuentaBancariaRepo {
+
+	@Override
+	public void insertar(CuentaBancaria cBancaria) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public CuentaBancaria buscar(String cuenta) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void eliminar(CuentaBancaria cBancaria) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void actualizar(CuentaBancaria cBancaria) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

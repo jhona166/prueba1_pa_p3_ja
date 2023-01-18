@@ -1,0 +1,20 @@
+package com.example.demo.uce.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.example.demo.uce.modelo.CuentaBancaria;
+@Service
+public class CuentaBancariaImpl implements ICuentaBancariaService{
+@Autowired
+private CuentaBancariaImpl iCuentaBancariaRepo;
+
+	@Override
+	public void insertar(CuentaBancaria cuenta) {
+		// TODO Auto-generated method stub
+		this.iCuentaBancariaRepo.insertar(cuenta);
+	}
+	
+	
+
+}

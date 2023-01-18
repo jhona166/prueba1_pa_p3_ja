@@ -1,0 +1,296 @@
+2023-01-09 18:21:32,422 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-09 18:22:11,396 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: uce.gob.ec.avanzada:proyecto_pa_u2_ja:1.0.1-SNAPSHOT @ C:\proyecto_pa_u2_ja\pom.xml.
+2023-01-09 18:22:19,895 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proyecto_pa_u2_ja/src/main/java
+2023-01-09 18:22:19,896 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /proyecto_pa_u2_ja/src/main/resources
+2023-01-09 18:22:19,897 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /proyecto_pa_u2_ja/src/main/resources
+2023-01-09 18:22:19,897 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proyecto_pa_u2_ja/src/test/java
+2023-01-09 18:22:20,117 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 19 sec
+2023-01-09 18:22:21,344 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 18:22:21,397 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 18:22:21,400 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 18:33:07,806 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 18:33:07,825 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 18:33:07,827 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 18:33:39,091 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 18:33:39,107 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 18:33:39,110 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 18:33:53,022 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 18:33:53,040 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 18:33:53,043 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 18:34:05,166 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 18:34:05,183 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 18:34:05,186 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 18:34:16,462 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 18:34:16,480 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 18:34:16,483 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 18:46:04,583 [Worker-4: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 18:46:04,586 [Worker-4: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 18:46:23,849 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 18:46:23,855 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 18:46:23,857 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 18:47:26,208 [Worker-16: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 18:47:26,208 [Worker-16: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 18:47:34,207 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 18:47:34,207 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 18:47:34,212 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 18:53:36,008 [Worker-15: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 18:53:36,009 [Worker-15: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 18:53:44,116 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 18:53:44,117 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 18:53:44,123 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 18:55:36,906 [Worker-16: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 18:55:36,906 [Worker-16: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 18:55:44,945 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 18:55:44,945 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 18:55:44,948 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 18:57:03,908 [Worker-23: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 18:57:03,908 [Worker-23: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 18:57:11,882 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 18:57:11,882 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 18:57:11,885 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 18:57:23,251 [Worker-18: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 18:57:23,252 [Worker-18: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 18:57:31,223 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 18:57:31,224 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 18:57:31,228 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 18:58:18,387 [Worker-22: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 18:58:18,388 [Worker-22: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 18:58:26,112 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 18:58:26,112 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 18:58:26,114 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:05:05,056 [Worker-16: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:05:05,056 [Worker-16: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 19:05:13,105 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:05:13,106 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:05:13,110 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:06:04,317 [Worker-29: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:06:04,317 [Worker-29: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 19:06:12,075 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:06:12,076 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:06:12,081 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:08:42,493 [Worker-22: Launching Executing clean in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:08:42,493 [Worker-22: Launching Executing clean in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always clean
+2023-01-09 19:08:44,800 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 19:08:44,801 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:08:44,805 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:08:54,001 [Worker-22: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:08:54,001 [Worker-22: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 19:09:03,557 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 19:09:03,559 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:09:03,561 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:09:13,057 [Worker-22: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 19:09:13,070 [Worker-22: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:09:13,073 [Worker-22: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:11:59,058 [Worker-29: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:11:59,058 [Worker-29: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 19:12:06,035 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:12:06,035 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:12:06,037 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:13:18,361 [Worker-32: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:13:18,361 [Worker-32: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 19:13:25,524 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:13:25,524 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:13:25,528 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:14:57,342 [Worker-36: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:14:57,342 [Worker-36: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 19:15:04,788 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:15:04,789 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:15:04,793 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:15:57,944 [Worker-32: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:15:57,944 [Worker-32: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 19:16:04,879 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:16:04,879 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:16:04,881 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:17:05,643 [Worker-30: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:17:05,643 [Worker-30: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 19:17:13,211 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:17:13,211 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:17:13,214 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:18:49,769 [Worker-30: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:18:49,770 [Worker-30: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 19:18:56,731 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:18:56,731 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:18:56,733 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:20:38,523 [Worker-35: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:20:38,524 [Worker-35: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 19:20:45,549 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:20:45,550 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:20:45,552 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:22:13,528 [Worker-37: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:22:13,528 [Worker-37: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 19:22:20,594 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:22:20,594 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:22:20,596 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:22:59,561 [Worker-36: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:22:59,561 [Worker-36: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 19:23:06,598 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:23:06,598 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:23:06,600 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:23:32,373 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 19:23:32,379 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:23:32,382 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:23:36,729 [Worker-30: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:23:36,729 [Worker-30: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 19:23:44,985 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:23:44,986 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:23:44,993 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:24:44,152 [Worker-36: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:24:44,152 [Worker-36: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 19:24:52,712 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:24:52,713 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:24:52,716 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:25:27,775 [Worker-36: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:25:27,776 [Worker-36: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 19:25:34,977 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:25:34,977 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:25:34,979 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:25:39,810 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 19:25:39,817 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:25:39,820 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:25:44,169 [Worker-37: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:25:44,169 [Worker-37: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 19:25:52,617 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:25:52,617 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:25:52,621 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:30:05,571 [Worker-34: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 19:30:05,578 [Worker-34: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:30:05,579 [Worker-34: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:32:34,236 [Worker-36: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:32:34,236 [Worker-36: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 19:32:41,671 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:32:41,671 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:32:41,673 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:33:15,491 [Worker-37: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 19:33:15,496 [Worker-37: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:33:15,500 [Worker-37: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:33:45,326 [Worker-37: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:33:45,327 [Worker-37: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 19:33:52,663 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:33:52,664 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:33:52,665 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:34:01,779 [Worker-40: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:34:01,779 [Worker-40: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 19:34:09,146 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:34:09,146 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:34:09,148 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:34:19,188 [Worker-36: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 19:34:19,195 [Worker-36: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:34:19,197 [Worker-36: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:34:37,299 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 19:34:37,305 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:34:37,307 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:35:14,481 [Worker-39: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:35:14,481 [Worker-39: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 19:35:21,812 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:35:21,812 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:35:21,814 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:35:25,588 [Worker-36: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 19:35:25,596 [Worker-36: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:35:25,599 [Worker-36: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:35:36,348 [Worker-40: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:35:36,348 [Worker-40: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 19:35:44,182 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:35:44,182 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:35:44,184 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:37:11,534 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 19:37:11,540 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:37:11,542 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:37:18,462 [Worker-43: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:37:18,463 [Worker-43: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 19:37:25,911 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:37:25,911 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:37:25,913 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:37:51,644 [Worker-37: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\proyecto_pa_u2_ja
+2023-01-09 19:37:51,644 [Worker-37: Launching Executing install in C__proyecto_pa_u2_ja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-01-09 19:37:59,147 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:37:59,148 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:37:59,151 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:39:38,021 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 19:39:38,040 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:39:38,042 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-09 19:42:31,697 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 19:42:31,711 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 19:42:31,712 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-13 18:09:59,066 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-13 18:15:25,602 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: uce.gob.ec.avanzada:prueba1_pa_p3_ja:1.0.1-SNAPSHOT @ C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\pom.xml.
+2023-01-13 18:15:27,539 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /prueba1_pa_p3_ja/src/main/java
+2023-01-13 18:15:27,539 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /prueba1_pa_p3_ja/src/main/resources
+2023-01-13 18:15:27,545 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /prueba1_pa_p3_ja/src/main/resources
+2023-01-13 18:15:27,550 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /prueba1_pa_p3_ja/src/test/java
+2023-01-13 18:15:27,774 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2023-01-13 18:15:27,777 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-13 18:15:27,951 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: uce.gob.ec.avanzada:prueba1_pa_p3_ja:1.0.1-SNAPSHOT @ C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\pom.xml.
+2023-01-13 18:15:28,261 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /prueba1_pa_p3_ja/src/main/java
+2023-01-13 18:15:28,261 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /prueba1_pa_p3_ja/src/main/resources
+2023-01-13 18:15:28,262 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /prueba1_pa_p3_ja/src/main/resources
+2023-01-13 18:15:28,262 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /prueba1_pa_p3_ja/src/test/java
+2023-01-13 18:15:28,497 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-01-13 18:15:28,862 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:15:28,881 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:15:28,885 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\src\test\resources
+2023-01-13 18:21:21,664 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:21:21,680 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:21:21,683 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\src\test\resources
+2023-01-13 18:21:32,787 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:21:32,800 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:21:32,804 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\src\test\resources
+2023-01-13 18:21:41,145 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:21:41,162 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:21:41,164 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\src\test\resources
+2023-01-13 18:23:20,429 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:23:20,447 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:23:20,451 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\src\test\resources
+2023-01-13 18:29:10,058 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:29:10,067 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:29:10,070 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\src\test\resources
+2023-01-13 18:34:11,220 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:34:11,226 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:34:11,228 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\src\test\resources
+2023-01-13 18:35:46,236 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:35:46,243 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:35:46,248 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\src\test\resources
+2023-01-13 18:37:54,860 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:37:54,865 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:37:54,867 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\src\test\resources
+2023-01-13 18:38:15,150 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:38:15,156 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:38:15,159 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\src\test\resources
+2023-01-13 18:42:38,768 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:42:38,776 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:42:38,779 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\src\test\resources
+2023-01-13 18:54:53,362 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:54:53,367 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:54:53,369 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\src\test\resources
+2023-01-13 18:56:28,773 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:56:28,778 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:56:28,781 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\src\test\resources
+2023-01-13 18:57:07,419 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:57:07,425 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:57:07,428 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\src\test\resources
+2023-01-13 18:58:39,216 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:58:39,221 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:58:39,224 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\src\test\resources
+2023-01-13 19:01:47,432 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 19:01:47,436 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 19:01:47,439 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\src\test\resources
+2023-01-13 19:04:09,256 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 19:04:09,260 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 19:04:09,262 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\src\test\resources
+2023-01-13 19:35:06,398 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 19:35:06,414 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 19:35:06,416 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\src\test\resources
+2023-01-13 19:35:40,803 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 19:35:40,822 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 19:35:40,825 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\src\test\resources
+2023-01-13 19:39:04,765 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 19:39:04,779 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 19:39:04,781 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\src\test\resources
+2023-01-13 19:40:08,625 [Worker-34: Launching prueba1_pa_p3_ja - Prueba1PaP3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 19:40:08,632 [Worker-34: Launching prueba1_pa_p3_ja - Prueba1PaP3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 19:40:08,635 [Worker-34: Launching prueba1_pa_p3_ja - Prueba1PaP3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\src\test\resources
+2023-01-13 19:48:06,118 [Worker-37: Launching prueba1_pa_p3_ja - Prueba1PaP3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 19:48:06,125 [Worker-37: Launching prueba1_pa_p3_ja - Prueba1PaP3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 19:48:06,128 [Worker-37: Launching prueba1_pa_p3_ja - Prueba1PaP3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\src\test\resources
+2023-01-13 19:48:47,504 [Worker-40: Launching prueba1_pa_p3_ja - Prueba1PaP3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 19:48:47,514 [Worker-40: Launching prueba1_pa_p3_ja - Prueba1PaP3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 19:48:47,517 [Worker-40: Launching prueba1_pa_p3_ja - Prueba1PaP3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\fing.labcom\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\taller19\prueba1_pa_p3_ja\src\test\resources
